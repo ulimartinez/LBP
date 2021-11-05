@@ -55,6 +55,7 @@ public class test {
 	private double preservedPercent = 0;
 	private int maxTime = 0;
 	private int minWS;
+	//TODO:Insert worker times 
 
 	/**
 	 * Launch the application.
